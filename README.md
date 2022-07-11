@@ -1,2 +1,0 @@
-# Wa-Antibot
-Wa Antibot
